@@ -1,0 +1,14 @@
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\bin\Debug\net10.0\Konsola.exe
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\bin\Debug\net10.0\Konsola.deps.json
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\bin\Debug\net10.0\Konsola.runtimeconfig.json
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\bin\Debug\net10.0\Konsola.dll
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\bin\Debug\net10.0\Konsola.pdb
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\Konsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\Konsola.AssemblyInfoInputs.cache
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\Konsola.AssemblyInfo.cs
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\Konsola.csproj.CoreCompileInputs.cache
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\Konsola.dll
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\refint\Konsola.dll
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\Konsola.pdb
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\Konsola.genruntimeconfig.cache
+C:\Users\dkaminski\Desktop\KalkulatorWynagrodzenia\Konsola\obj\Debug\net10.0\ref\Konsola.dll
